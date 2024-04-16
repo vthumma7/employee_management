@@ -26,7 +26,7 @@ const UpdateEmployee = () => {
           });
 
     }
-
+// this is a fetching hook 
     useEffect(() => {
         const fetchData = async () => {
           try {
